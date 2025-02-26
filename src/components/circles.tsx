@@ -2,7 +2,7 @@ import React from 'react';
 
 const colors = {
   slate: 'border-slate-300 dark:border-slate-600',
-  red: 'border-red-300 dark:border-red-600',
+  red: 'border-yellow-300 dark:border-yellow-600',
   white: 'border-white dark:border-docusaurus-dark',
 };
 

@@ -13,11 +13,11 @@
   @apply flex;
   @apply items-center;
   @apply justify-center;
-  @apply hover:bg-red-500;
+  @apply hover:bg-yellow-500;
   @apply hover:text-white;
   @apply hover:rounded-full;
   @apply hover:shadow-lg;
-  @apply hover:shadow-red-500/50;
+  @apply hover:shadow-yellow-500/50;
   @apply mx-1;
   @apply transition-all;
   @apply ease-in;
@@ -28,7 +28,7 @@ main {
 }
 
 .menu .menu__link.menu__link--active {
-  @apply text-red-500;
+  @apply text-yellow-500;
 }
 
 
@@ -60,9 +60,9 @@ main {
 }
 
 .markdown a {
-  @apply text-red-500;
-  @apply hover:text-red-700;
-  @apply dark:hover:text-red-400;
+  @apply text-yellow-500;
+  @apply hover:text-yellow-700;
+  @apply dark:hover:text-yellow-400;
 }
 
 .markdown strong {
@@ -70,22 +70,22 @@ main {
 }
 
 .table-of-contents__link.toc-highlight.table-of-contents__link--active {
-  @apply text-red-500;
-  @apply hover:text-red-700;
-  @apply dark:hover:text-red-400;
+  @apply text-yellow-500;
+  @apply hover:text-yellow-700;
+  @apply dark:hover:text-yellow-400;
 }
 
 .table-of-contents__link.toc-highlight {
-  @apply hover:text-red-700;
-  @apply dark:hover:text-red-400;
+  @apply hover:text-yellow-700;
+  @apply dark:hover:text-yellow-400;
 }
 
 .theme-edit-this-page {
   @apply flex;
   @apply items-center;
-  @apply text-red-500;
-  @apply hover:text-red-700;
-  @apply dark:hover:text-red-400;
+  @apply text-yellow-500;
+  @apply hover:text-yellow-700;
+  @apply dark:hover:text-yellow-400;
 }
 
 .markdown ul {
@@ -94,15 +94,15 @@ main {
 }
 
 .navbar__link--active {
-  @apply bg-red-500;
+  @apply bg-yellow-500;
   @apply text-white;
   @apply rounded-full;
   @apply shadow-lg;
-  @apply shadow-red-500/50;
+  @apply shadow-yellow-500/50;
 }
 
 .navbar__title {
-  @apply hover:text-red-500;
+  @apply hover:text-yellow-500;
 }
 
 .navbar-sidebar__backdrop, .navbar-sidebar {
@@ -114,11 +114,11 @@ main {
   @apply dark:bg-black/50 !important;
   @apply backdrop-blur-sm !important;
   @apply shadow-lg !important;
-  @apply shadow-red-500/50 !important;
+  @apply shadow-yellow-500/50 !important;
 }
 
 .DocSearch-Footer {
-  @apply bg-red-500 !important;
+  @apply bg-yellow-500 !important;
   border-radius: 0 0 5px 5px !important;
 }
 
@@ -147,7 +147,7 @@ main {
 
 .blog-wrapper main article header h2 {
   @apply font-bold;
-  @apply hover:text-red-500;
+  @apply hover:text-yellow-500;
 }
 
 table thead {
@@ -208,8 +208,8 @@ table tr:nth-child(2n) {
 .footer__link-item, .footer__copyright {
   @apply text-neutral-500;
   @apply dark:text-neutral-300;
-  @apply hover:text-red-500;
-  @apply dark:hover:text-red-400;
+  @apply hover:text-yellow-500;
+  @apply dark:hover:text-yellow-400;
 }
 
 @media (max-width: 996px){
@@ -230,7 +230,7 @@ table tr:nth-child(2n) {
 }
 
 .avatar__name {
-  @apply text-red-500;
+  @apply text-yellow-500;
 }
 
 

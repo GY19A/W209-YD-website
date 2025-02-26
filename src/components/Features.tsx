@@ -77,6 +77,7 @@ function Feature({
         hover:shadow-xl
      "
     >
+       {/* mr-4 */}
       <div
         className={`
           flex
@@ -88,18 +89,18 @@ function Feature({
           h-[50px]
           min-w-[50px]
           min-h-[50px]
-          mr-4
+         
           rounded-xl
         `}
       >
         <p className="text-2xl">{icon}</p>
       </div>
-      <div className="flex flex-col">
+      {/* <div className="flex flex-col">
         <div className="font-bold mb-4">{title}</div>
         <p className="text-xs text-slate-500 dark:text-slate-300">
           {description}
         </p>
-      </div>
+      </div> */}
     </div>
   );
 }
@@ -107,7 +108,7 @@ function Feature({
 export default function HomepageFeatures(): JSX.Element {
   return (
     <section className="relative">
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4 p-5 sm:px-16 sm:pb-16 pt-0">
+      <div className="inline-grid grid-cols-1 md:grid-cols-4 gap-4 p-5 sm:px-16 sm:pb-16 pt-0">
         {FeatureList.map((props, idx) => (
           <Feature key={`feature-${idx}`} {...props} />
         ))}

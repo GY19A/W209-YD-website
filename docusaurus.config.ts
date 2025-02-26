@@ -2,19 +2,37 @@ import type { Config } from '@docusaurus/types';
 import { themes as prismThemes } from 'prism-react-renderer';
 
 export default {
-  title: 'The React Native Boilerplate',
-  tagline: 'Simple, Lightweight and Scalable.',
+  title: 'Yellow Duckie Coin',
+  tagline: 'The world\'s first Solana POW meme coin！',
   url: 'https://thecodingmachine.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/TOM-small.webp',
+  favicon: 'img/yd.png',
   organizationName: 'thecodingmachine',
   projectName: 'react-native-boilerplate',
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
   },
+  themes: [
+    // ... Your other themes.
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        // ... Your options.
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+
+        // For Docs using Chinese, it is recommended to set:
+        language: ["en", "zh"],
+
+        // If you're using `noIndex: true`, set `forceIgnoreNoIndex` to enable local index:
+        // forceIgnoreNoIndex: true,
+      }),
+    ],
+  ],
   plugins: [
     async function myPlugin() {
       return {
@@ -52,22 +70,22 @@ export default {
   ],
 
   themeConfig: {
-    algolia: {
-      appId: '9PEYN0H12D',
-      indexName: 'rnboilerplate',
-      apiKey: '983439b6ebef49ed3394ecfa290f1c6a',
-      contextualSearch: true,
-    },
+    // algolia: {
+    //   appId: 'RS0W62V3KF',
+    //   indexName: '20f91c3ffa50a5c271ea9faa0c56de9e',
+    //   apiKey: '20f91c3ffa50a5c271ea9faa0c56de9e',
+    //   contextualSearch: true,
+    // },
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
       respectPrefersColorScheme: false,
     },
     navbar: {
-      title: 'React Native Boilerplate',
+      title: 'Yellow Duckie',
       logo: {
-        alt: 'octopus tentacle logo',
-        src: 'img/TOM-small.webp',
+        alt: 'yellow duckie logo',
+        src: 'img/yd.png',
       },
       items: [
         {
@@ -76,7 +94,7 @@ export default {
           position: 'left',
           label: 'Docs',
         },
-        { to: '/blog', label: 'Blog', position: 'left' },
+        // { to: '/blog', label: 'Blog', position: 'left' },
         {
           to: 'https://github.com/thecodingmachine/react-native-boilerplate',
           label: ' ',
@@ -87,47 +105,43 @@ export default {
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Features',
-          items: [
-            {
-              label: 'Javascript or TypeScript ? You choose !',
-              to: '/docs/installation#using-the-boilerplate',
-            },
-            {
-              label: 'Navigation',
-              to: '/docs/navigate',
-            },
-            {
-              label: 'Data fetching',
-              to: '/docs/data-fetching',
-            },
-            {
-              label: 'Internationalization',
-              to: '/docs/internationalization',
-            },
-            {
-              label: 'Multi theming',
-              to: '/docs/theming/how-to-use',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              to: 'https://github.com/thecodingmachine/react-native-boilerplate',
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} React Native Boilerplate, by TheCodingMachine. Built with Docusaurus.`,
+      // links: [
+      //   {
+      //     title: 'Features',
+      //     items: [
+      //       {
+      //         label: 'Navigation',
+      //         to: '/docs/navigate',
+      //       },
+      //       {
+      //         label: 'Data fetching',
+      //         to: '/docs/data-fetching',
+      //       },
+      //       {
+      //         label: 'Internationalization',
+      //         to: '/docs/internationalization',
+      //       },
+      //       {
+      //         label: 'Multi theming',
+      //         to: '/docs/theming/how-to-use',
+      //       },
+      //     ],
+      //   },
+      //   {
+      //     title: 'More',
+      //     items: [
+      //       {
+      //         label: 'Blog',
+      //         to: '/blog',
+      //       },
+      //       {
+      //         label: 'GitHub',
+      //         to: 'https://github.com/thecodingmachine/react-native-boilerplate',
+      //       },
+      //     ],
+      //   },
+      // ],
+      copyright: `Copyright © ${new Date().getFullYear()} The Yellow Duckie Team.`,
     },
     prism: {
       theme: prismThemes.github,

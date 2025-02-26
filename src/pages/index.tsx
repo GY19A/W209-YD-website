@@ -27,27 +27,23 @@ function HomepageHeader() {
       </div>
 
       <div className="px-5 sm:px-12 md:px-16 relative mx-auto pt-10 md:pt-24">
-        <h1 className="text-[32px] sm:text-[40px] mt-10 lg:mt-16 md:mt-0 md:text-[45px] lg:text-[63px] leading-10 md:leading-8 font-black text-indigo-700">
-          The React Native
-          <span className="font-extralight mt-4 md:mt-8 lg:mt-0 text-[66px] sm:text-[83px] md:text-[92px] lg:text-9xl block text-red-500 dark:text-red-600">Boilerplate</span>
+        <h1 className="text-[32px] sm:text-[40px] mt-10 lg:mt-16 md:mt-0 md:text-[45px] lg:text-[63px] leading-10 md:leading-8 font-black text-yellow-500">
+          Yellow Duckie
+          <span className="font-extralight mt-4 md:mt-8 lg:mt-0 text-[66px] sm:text-[83px] md:text-[92px] lg:text-9xl block text-yellow-500 dark:text-yellow-600">$YD</span>
         </h1>
         <p className="mt-6 pr-20 sm:pr-0 sm:mt-12 lg:mt-5 w-full sm:w-2/3 md:w-1/2 text-sm font-bold ml-1 text-slate-700 dark:text-white">
           {siteConfig.tagline}
-          <span className="ml-1 text-slate-400">
-            Explore the optimal React Native boilerplate for your project,
-            featuring a straightforward architecture
-            founded on the principle of Separation of Concerns.
-            Join our vibrant community and watch it flourish.
-          </span>
+          <br />
+          CA:BxVQV55MSNF48H3Lur4fj9CTEA7bCVmFJg7gfym1Gs5M
         </p>
 
         <div className="py-10">
           <Link
-            className="transition-all ease-in hover:bg-red-700 hover:text-white hover:text text-md text-white font-bold py-3 px-4 rounded bg-red-500 shadow-lg shadow-red-500/50"
+            className="transition-all ease-in hover:bg-yellow-700 hover:text-white hover:text text-md text-white font-bold py-3 px-4 rounded bg-yellow-500 shadow-lg shadow-yellow-500/50"
             to="/docs/getting-started"
           >
-            Get started
-            <span className="ml-3">🚀</span>
+            Buy Yellow Duckie
+            <span className="ml-3">🪙</span>
           </Link>
         </div>
       </div>
@@ -60,8 +56,8 @@ export default function Home(): JSX.Element {
 
   return (
     <Layout
-      title={`Light Simple and Scalable ${siteConfig.title} by TheCodingMachine`}
-      description="A React Native template for building solid applications, using JavaScript or Typescript (YOU choose)."
+      title={`${siteConfig.title}`}
+      description="Yellow Duckie Coin, the world's first POW Solana Meme Coin you can mine with GPUs!"
       wrapperClassName="relative overflow-hidden"
     >
       <div className="relative max-w-7xl m-auto w-full opacity-40">
@@ -86,7 +82,7 @@ export default function Home(): JSX.Element {
             <HomepageFeatures />
           </div>
 
-          <svg className="-mb-[1px] bottom-0 w-full sm:-mt-20 fill-red-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+          <svg className="-mb-[1px] bottom-0 w-full sm:-mt-20 fill-yellow-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
             <path fill="current" fillOpacity="1" d="M0,320L60,272C120,224,240,128,360,128C480,128,600,224,720,234.7C840,245,960,171,1080,122.7C1200,75,1320,53,1380,42.7L1440,32L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z" />
           </svg>
           <Quickstart />
