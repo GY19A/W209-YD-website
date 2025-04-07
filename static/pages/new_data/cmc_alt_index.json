@@ -1,0 +1,2954 @@
+{
+  "data": {
+    "points": [
+      {
+        "name": "",
+        "altcoinIndex": "43",
+        "altcoinMarketcap": "1250718557049.22",
+        "timestamp": "1712016000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "43",
+        "altcoinMarketcap": "1181487106431.80",
+        "timestamp": "1712102400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "41",
+        "altcoinMarketcap": "1184890838592.62",
+        "timestamp": "1712188800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "42",
+        "altcoinMarketcap": "1204855016043.64",
+        "timestamp": "1712275200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "41",
+        "altcoinMarketcap": "1190483808302.27",
+        "timestamp": "1712361600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "45",
+        "altcoinMarketcap": "1210343678830.67",
+        "timestamp": "1712448000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "49",
+        "altcoinMarketcap": "1231143477544.49",
+        "timestamp": "1712534400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "50",
+        "altcoinMarketcap": "1280576251622.16",
+        "timestamp": "1712620800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "41",
+        "altcoinMarketcap": "1229802186166.31",
+        "timestamp": "1712707200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "39",
+        "altcoinMarketcap": "1239791708053.08",
+        "timestamp": "1712793600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "38",
+        "altcoinMarketcap": "1227993755439.63",
+        "timestamp": "1712880000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "32",
+        "altcoinMarketcap": "1124103669572.67",
+        "timestamp": "1712966400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "30",
+        "altcoinMarketcap": "1036770184087.15",
+        "timestamp": "1713052800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "32",
+        "altcoinMarketcap": "1091999350797.91",
+        "timestamp": "1713139200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "34",
+        "altcoinMarketcap": "1063986634637.67",
+        "timestamp": "1713225600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "33",
+        "altcoinMarketcap": "1057661666903.89",
+        "timestamp": "1713312000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "33",
+        "altcoinMarketcap": "1031278877040.55",
+        "timestamp": "1713398400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "32",
+        "altcoinMarketcap": "1061795523246.35",
+        "timestamp": "1713484800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "31",
+        "altcoinMarketcap": "1064338183221.52",
+        "timestamp": "1713571200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "37",
+        "altcoinMarketcap": "1111811824694.47",
+        "timestamp": "1713657600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "36",
+        "altcoinMarketcap": "1105464036566.98",
+        "timestamp": "1713744000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "35",
+        "altcoinMarketcap": "1132823322363.97",
+        "timestamp": "1713830400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "35",
+        "altcoinMarketcap": "1137077503013.54",
+        "timestamp": "1713916800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "35",
+        "altcoinMarketcap": "1105445193069.22",
+        "timestamp": "1714003200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "37",
+        "altcoinMarketcap": "1107461694656.42",
+        "timestamp": "1714089600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "33",
+        "altcoinMarketcap": "1090721037139.83",
+        "timestamp": "1714176000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "36",
+        "altcoinMarketcap": "1108249775285.38",
+        "timestamp": "1714262400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "35",
+        "altcoinMarketcap": "1105301895125.78",
+        "timestamp": "1714348800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "34",
+        "altcoinMarketcap": "1095976694890.11",
+        "timestamp": "1714435200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "35",
+        "altcoinMarketcap": "1041030636475.73",
+        "timestamp": "1714521600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "41",
+        "altcoinMarketcap": "1041337713559.11",
+        "timestamp": "1714608000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "40",
+        "altcoinMarketcap": "1046531690583.14",
+        "timestamp": "1714694400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "39",
+        "altcoinMarketcap": "1086349979352.09",
+        "timestamp": "1714780800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "36",
+        "altcoinMarketcap": "1092729734555.28",
+        "timestamp": "1714867200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "36",
+        "altcoinMarketcap": "1100802027203.86",
+        "timestamp": "1714953600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "35",
+        "altcoinMarketcap": "1087951380640.32",
+        "timestamp": "1715040000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "36",
+        "altcoinMarketcap": "1068301895924.61",
+        "timestamp": "1715126400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "35",
+        "altcoinMarketcap": "1057481395112.62",
+        "timestamp": "1715212800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "36",
+        "altcoinMarketcap": "1085642232833.51",
+        "timestamp": "1715299200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "36",
+        "altcoinMarketcap": "1053263420217.13",
+        "timestamp": "1715385600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "37",
+        "altcoinMarketcap": "1052944397381.21",
+        "timestamp": "1715472000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "38",
+        "altcoinMarketcap": "1053481470556.48",
+        "timestamp": "1715558400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "34",
+        "altcoinMarketcap": "1057073511710.98",
+        "timestamp": "1715644800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "35",
+        "altcoinMarketcap": "1031478459924.56",
+        "timestamp": "1715731200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "34",
+        "altcoinMarketcap": "1086376506125.14",
+        "timestamp": "1715817600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "33",
+        "altcoinMarketcap": "1070658093473.35",
+        "timestamp": "1715904000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "33",
+        "altcoinMarketcap": "1106474412259.49",
+        "timestamp": "1715990400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "31",
+        "altcoinMarketcap": "1110647986220.03",
+        "timestamp": "1716076800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "30",
+        "altcoinMarketcap": "1089405071027.10",
+        "timestamp": "1716163200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "31",
+        "altcoinMarketcap": "1208213921018.51",
+        "timestamp": "1716249600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "30",
+        "altcoinMarketcap": "1222522121412.41",
+        "timestamp": "1716336000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "30",
+        "altcoinMarketcap": "1209012395991.16",
+        "timestamp": "1716422400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "28",
+        "altcoinMarketcap": "1203432417385.97",
+        "timestamp": "1716508800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "27",
+        "altcoinMarketcap": "1197324319329.67",
+        "timestamp": "1716595200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "27",
+        "altcoinMarketcap": "1208289023456.39",
+        "timestamp": "1716681600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "28",
+        "altcoinMarketcap": "1208209251430.13",
+        "timestamp": "1716768000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "27",
+        "altcoinMarketcap": "1230291617993.66",
+        "timestamp": "1716854400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "38",
+        "altcoinMarketcap": "1219705658204.67",
+        "timestamp": "1716940800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "33",
+        "altcoinMarketcap": "1195865628906.19",
+        "timestamp": "1717027200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "28",
+        "altcoinMarketcap": "1190662665350.10",
+        "timestamp": "1717113600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "27",
+        "altcoinMarketcap": "1190003737636.14",
+        "timestamp": "1717200000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "26",
+        "altcoinMarketcap": "1199826812564.72",
+        "timestamp": "1717286400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "29",
+        "altcoinMarketcap": "1192408491795.36",
+        "timestamp": "1717372800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "28",
+        "altcoinMarketcap": "1197292919082.78",
+        "timestamp": "1717459200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "26",
+        "altcoinMarketcap": "1225810865097.82",
+        "timestamp": "1717545600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "23",
+        "altcoinMarketcap": "1240754990939.52",
+        "timestamp": "1717632000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "19",
+        "altcoinMarketcap": "1229320102766.18",
+        "timestamp": "1717718400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "20",
+        "altcoinMarketcap": "1180352327062.36",
+        "timestamp": "1717804800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "20",
+        "altcoinMarketcap": "1167278047090.25",
+        "timestamp": "1717891200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "20",
+        "altcoinMarketcap": "1176695026289.99",
+        "timestamp": "1717977600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "20",
+        "altcoinMarketcap": "1155366758869.47",
+        "timestamp": "1718064000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1111039086965.93",
+        "timestamp": "1718150400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "16",
+        "altcoinMarketcap": "1141626914031.52",
+        "timestamp": "1718236800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "14",
+        "altcoinMarketcap": "1106319905501.40",
+        "timestamp": "1718323200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "16",
+        "altcoinMarketcap": "1098380291789.19",
+        "timestamp": "1718409600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1114868644069.85",
+        "timestamp": "1718496000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "20",
+        "altcoinMarketcap": "1128640863962.18",
+        "timestamp": "1718582400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1090268438873.64",
+        "timestamp": "1718668800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "14",
+        "altcoinMarketcap": "1086083579026.94",
+        "timestamp": "1718841600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "14",
+        "altcoinMarketcap": "1079587192881.64",
+        "timestamp": "1718928000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "15",
+        "altcoinMarketcap": "1078633052023.01",
+        "timestamp": "1719014400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1076020943731.85",
+        "timestamp": "1719100800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1055026842023.77",
+        "timestamp": "1719187200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1042183308847.30",
+        "timestamp": "1719273600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "16",
+        "altcoinMarketcap": "1060728706032.28",
+        "timestamp": "1719360000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1052171456305.30",
+        "timestamp": "1719446400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "20",
+        "altcoinMarketcap": "1075730537288.14",
+        "timestamp": "1719532800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "19",
+        "altcoinMarketcap": "1050157127974.11",
+        "timestamp": "1719619200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1049089802148.86",
+        "timestamp": "1719705600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "18",
+        "altcoinMarketcap": "1071055308385.12",
+        "timestamp": "1719792000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "16",
+        "altcoinMarketcap": "1072604677242.91",
+        "timestamp": "1719878400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "16",
+        "altcoinMarketcap": "1074724338807.69",
+        "timestamp": "1719964800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1032985206568.20",
+        "timestamp": "1720051200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "18",
+        "altcoinMarketcap": "962913013862.43",
+        "timestamp": "1720137600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "18",
+        "altcoinMarketcap": "950693464394.90",
+        "timestamp": "1720224000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "20",
+        "altcoinMarketcap": "990944872272.46",
+        "timestamp": "1720310400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "19",
+        "altcoinMarketcap": "941155773685.87",
+        "timestamp": "1720396800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "19",
+        "altcoinMarketcap": "968672318080.25",
+        "timestamp": "1720483200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "20",
+        "altcoinMarketcap": "983349126548.26",
+        "timestamp": "1720569600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "21",
+        "altcoinMarketcap": "992084150395.26",
+        "timestamp": "1720656000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "26",
+        "altcoinMarketcap": "986399472140.16",
+        "timestamp": "1720742400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "34",
+        "altcoinMarketcap": "1001259085370.11",
+        "timestamp": "1720828800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "29",
+        "altcoinMarketcap": "1016696147487.86",
+        "timestamp": "1720915200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "29",
+        "altcoinMarketcap": "1036459583373.26",
+        "timestamp": "1721001600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "26",
+        "altcoinMarketcap": "1098518675845.45",
+        "timestamp": "1721088000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "26",
+        "altcoinMarketcap": "1094067446522.98",
+        "timestamp": "1721174400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "27",
+        "altcoinMarketcap": "1082720172074.42",
+        "timestamp": "1721260800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "26",
+        "altcoinMarketcap": "1083699671862.98",
+        "timestamp": "1721347200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "23",
+        "altcoinMarketcap": "1113195261201.55",
+        "timestamp": "1721433600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "21",
+        "altcoinMarketcap": "1121228876830.90",
+        "timestamp": "1721520000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "22",
+        "altcoinMarketcap": "1135832316123.95",
+        "timestamp": "1721606400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "20",
+        "altcoinMarketcap": "1105666921267.70",
+        "timestamp": "1721692800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "19",
+        "altcoinMarketcap": "1099694014218.37",
+        "timestamp": "1721779200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "19",
+        "altcoinMarketcap": "1077813690099.27",
+        "timestamp": "1721865600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "19",
+        "altcoinMarketcap": "1047530116630.75",
+        "timestamp": "1721952000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "19",
+        "altcoinMarketcap": "1080476091870.11",
+        "timestamp": "1722038400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "20",
+        "altcoinMarketcap": "1076493060317.73",
+        "timestamp": "1722124800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "18",
+        "altcoinMarketcap": "1075483722258.15",
+        "timestamp": "1722211200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "23",
+        "altcoinMarketcap": "1077898149034.06",
+        "timestamp": "1722297600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "18",
+        "altcoinMarketcap": "1068455399847.01",
+        "timestamp": "1722384000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "16",
+        "altcoinMarketcap": "1050761143499.27",
+        "timestamp": "1722470400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1040688920413.21",
+        "timestamp": "1722556800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "16",
+        "altcoinMarketcap": "979191855535.22",
+        "timestamp": "1722643200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "16",
+        "altcoinMarketcap": "952416988294.67",
+        "timestamp": "1722729600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "16",
+        "altcoinMarketcap": "904130800524.69",
+        "timestamp": "1722816000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "841967512068.77",
+        "timestamp": "1722902400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "18",
+        "altcoinMarketcap": "871063050111.08",
+        "timestamp": "1722988800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "853767887819.18",
+        "timestamp": "1723075200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "16",
+        "altcoinMarketcap": "940606804210.16",
+        "timestamp": "1723161600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "15",
+        "altcoinMarketcap": "921010817511.96",
+        "timestamp": "1723248000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "926139928364.73",
+        "timestamp": "1723334400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "19",
+        "altcoinMarketcap": "894376217247.17",
+        "timestamp": "1723420800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "19",
+        "altcoinMarketcap": "932024755907.78",
+        "timestamp": "1723507200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "19",
+        "altcoinMarketcap": "933824316502.86",
+        "timestamp": "1723593600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "23",
+        "altcoinMarketcap": "923701309086.72",
+        "timestamp": "1723680000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "21",
+        "altcoinMarketcap": "903424260487.38",
+        "timestamp": "1723766400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "19",
+        "altcoinMarketcap": "906126191763.06",
+        "timestamp": "1723852800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "20",
+        "altcoinMarketcap": "916248352227.00",
+        "timestamp": "1723939200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "20",
+        "altcoinMarketcap": "914472250922.35",
+        "timestamp": "1724025600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "20",
+        "altcoinMarketcap": "929979525124.65",
+        "timestamp": "1724112000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "20",
+        "altcoinMarketcap": "926929795799.89",
+        "timestamp": "1724198400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "19",
+        "altcoinMarketcap": "943416131720.59",
+        "timestamp": "1724284800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "21",
+        "altcoinMarketcap": "948761824867.09",
+        "timestamp": "1724371200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "21",
+        "altcoinMarketcap": "992275973365.87",
+        "timestamp": "1724457600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "20",
+        "altcoinMarketcap": "997033302697.48",
+        "timestamp": "1724544000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "18",
+        "altcoinMarketcap": "986545640636.48",
+        "timestamp": "1724630400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "18",
+        "altcoinMarketcap": "959881201505.72",
+        "timestamp": "1724716800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "18",
+        "altcoinMarketcap": "911389042011.87",
+        "timestamp": "1724803200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "20",
+        "altcoinMarketcap": "916536463221.02",
+        "timestamp": "1724889600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "913830275555.27",
+        "timestamp": "1724976000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "15",
+        "altcoinMarketcap": "913132193283.25",
+        "timestamp": "1725062400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "15",
+        "altcoinMarketcap": "906351292099.32",
+        "timestamp": "1725148800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "13",
+        "altcoinMarketcap": "906565670712.12",
+        "timestamp": "1725321600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "14",
+        "altcoinMarketcap": "875667916265.75",
+        "timestamp": "1725408000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "14",
+        "altcoinMarketcap": "882394269746.76",
+        "timestamp": "1725494400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "15",
+        "altcoinMarketcap": "865343766381.10",
+        "timestamp": "1725580800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "19",
+        "altcoinMarketcap": "835395614879.01",
+        "timestamp": "1725667200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "848645710096.39",
+        "timestamp": "1725753600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "21",
+        "altcoinMarketcap": "860651194494.77",
+        "timestamp": "1725840000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "22",
+        "altcoinMarketcap": "884239337904.25",
+        "timestamp": "1725926400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "19",
+        "altcoinMarketcap": "892440781121.71",
+        "timestamp": "1726012800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "22",
+        "altcoinMarketcap": "883040286786.29",
+        "timestamp": "1726099200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "24",
+        "altcoinMarketcap": "897072755391.74",
+        "timestamp": "1726185600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "23",
+        "altcoinMarketcap": "917732216401.39",
+        "timestamp": "1726272000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "21",
+        "altcoinMarketcap": "912163692337.02",
+        "timestamp": "1726358400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "28",
+        "altcoinMarketcap": "888655278465.02",
+        "timestamp": "1726444800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "36",
+        "altcoinMarketcap": "877848736123.77",
+        "timestamp": "1726531200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "27",
+        "altcoinMarketcap": "891553130688.15",
+        "timestamp": "1726617600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "29",
+        "altcoinMarketcap": "905612364035.57",
+        "timestamp": "1726704000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "31",
+        "altcoinMarketcap": "931462717928.22",
+        "timestamp": "1726790400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "36",
+        "altcoinMarketcap": "950116238721.97",
+        "timestamp": "1726876800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "39",
+        "altcoinMarketcap": "969243722145.47",
+        "timestamp": "1726963200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "25",
+        "altcoinMarketcap": "956678965714.02",
+        "timestamp": "1727049600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "28",
+        "altcoinMarketcap": "974112936102.81",
+        "timestamp": "1727136000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "31",
+        "altcoinMarketcap": "987570449773.34",
+        "timestamp": "1727222400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "25",
+        "altcoinMarketcap": "969436363167.06",
+        "timestamp": "1727308800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "34",
+        "altcoinMarketcap": "996119711759.32",
+        "timestamp": "1727395200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "33",
+        "altcoinMarketcap": "1015954401095.65",
+        "timestamp": "1727481600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "35",
+        "altcoinMarketcap": "1010152362788.38",
+        "timestamp": "1727568000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "33",
+        "altcoinMarketcap": "1009433247439.83",
+        "timestamp": "1727654400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "32",
+        "altcoinMarketcap": "978433373115.53",
+        "timestamp": "1727740800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "32",
+        "altcoinMarketcap": "934844238002.20",
+        "timestamp": "1727827200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "32",
+        "altcoinMarketcap": "912509473866.12",
+        "timestamp": "1727913600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "31",
+        "altcoinMarketcap": "905977702478.71",
+        "timestamp": "1728000000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "37",
+        "altcoinMarketcap": "931276912766.89",
+        "timestamp": "1728086400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "37",
+        "altcoinMarketcap": "929539176111.19",
+        "timestamp": "1728172800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "38",
+        "altcoinMarketcap": "943191217263.24",
+        "timestamp": "1728259200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "29",
+        "altcoinMarketcap": "935518584032.36",
+        "timestamp": "1728345600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "29",
+        "altcoinMarketcap": "937558059095.09",
+        "timestamp": "1728432000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "31",
+        "altcoinMarketcap": "917469876019.94",
+        "timestamp": "1728518400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "34",
+        "altcoinMarketcap": "919154967092.11",
+        "timestamp": "1728604800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "33",
+        "altcoinMarketcap": "942385045934.16",
+        "timestamp": "1728691200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "31",
+        "altcoinMarketcap": "953974899085.73",
+        "timestamp": "1728777600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "30",
+        "altcoinMarketcap": "949814864571.85",
+        "timestamp": "1728864000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "23",
+        "altcoinMarketcap": "991571893827.47",
+        "timestamp": "1728950400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "27",
+        "altcoinMarketcap": "983666214975.19",
+        "timestamp": "1729036800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "24",
+        "altcoinMarketcap": "983713831457.63",
+        "timestamp": "1729123200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "24",
+        "altcoinMarketcap": "974414850703.97",
+        "timestamp": "1729209600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "26",
+        "altcoinMarketcap": "991520336495.22",
+        "timestamp": "1729296000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "34",
+        "altcoinMarketcap": "995758437185.82",
+        "timestamp": "1729382400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "34",
+        "altcoinMarketcap": "1020911630405.54",
+        "timestamp": "1729468800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "32",
+        "altcoinMarketcap": "1000592569593.47",
+        "timestamp": "1729555200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "37",
+        "altcoinMarketcap": "992276129806.70",
+        "timestamp": "1729641600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "34",
+        "altcoinMarketcap": "973411442229.58",
+        "timestamp": "1729728000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "33",
+        "altcoinMarketcap": "984750743772.08",
+        "timestamp": "1729814400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "29",
+        "altcoinMarketcap": "939393968711.37",
+        "timestamp": "1729900800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "29",
+        "altcoinMarketcap": "954929937023.46",
+        "timestamp": "1729987200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "25",
+        "altcoinMarketcap": "966881770132.94",
+        "timestamp": "1730073600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "24",
+        "altcoinMarketcap": "981623907863.09",
+        "timestamp": "1730160000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "28",
+        "altcoinMarketcap": "1004408917995.32",
+        "timestamp": "1730246400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "27",
+        "altcoinMarketcap": "1000225408619.87",
+        "timestamp": "1730332800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "32",
+        "altcoinMarketcap": "963062473782.94",
+        "timestamp": "1730419200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "27",
+        "altcoinMarketcap": "957632155731.44",
+        "timestamp": "1730505600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "28",
+        "altcoinMarketcap": "948916735859.85",
+        "timestamp": "1730592000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "23",
+        "altcoinMarketcap": "931908835192.04",
+        "timestamp": "1730678400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "27",
+        "altcoinMarketcap": "915374445531.42",
+        "timestamp": "1730764800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "33",
+        "altcoinMarketcap": "937889538179.64",
+        "timestamp": "1730851200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "35",
+        "altcoinMarketcap": "1022871886560.02",
+        "timestamp": "1730937600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "34",
+        "altcoinMarketcap": "1003109846878.75",
+        "timestamp": "1731024000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "38",
+        "altcoinMarketcap": "1071649245490.75",
+        "timestamp": "1731110400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "36",
+        "altcoinMarketcap": "1115824565662.48",
+        "timestamp": "1731196800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "33",
+        "altcoinMarketcap": "1130786895962.86",
+        "timestamp": "1731283200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "36",
+        "altcoinMarketcap": "1230110802228.96",
+        "timestamp": "1731369600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "32",
+        "altcoinMarketcap": "1201849345244.98",
+        "timestamp": "1731456000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "36",
+        "altcoinMarketcap": "1195632715066.60",
+        "timestamp": "1731542400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "37",
+        "altcoinMarketcap": "1165932797288.55",
+        "timestamp": "1731628800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "41",
+        "altcoinMarketcap": "1209550848011.51",
+        "timestamp": "1731715200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "36",
+        "altcoinMarketcap": "1246106327265.67",
+        "timestamp": "1731801600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "41",
+        "altcoinMarketcap": "1235753731411.41",
+        "timestamp": "1731888000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "37",
+        "altcoinMarketcap": "1276381742209.37",
+        "timestamp": "1731974400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "31",
+        "altcoinMarketcap": "1258902312054.06",
+        "timestamp": "1732060800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "27",
+        "altcoinMarketcap": "1239891016262.20",
+        "timestamp": "1732147200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "28",
+        "altcoinMarketcap": "1318385961529.24",
+        "timestamp": "1732233600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "38",
+        "altcoinMarketcap": "1357975161063.40",
+        "timestamp": "1732320000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "48",
+        "altcoinMarketcap": "1399467520279.14",
+        "timestamp": "1732406400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "52",
+        "altcoinMarketcap": "1402431595655.98",
+        "timestamp": "1732492800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "52",
+        "altcoinMarketcap": "1371609197127.79",
+        "timestamp": "1732579200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "61",
+        "altcoinMarketcap": "1352807751101.58",
+        "timestamp": "1732665600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "59",
+        "altcoinMarketcap": "1434954905605.73",
+        "timestamp": "1732752000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "65",
+        "altcoinMarketcap": "1430201953522.43",
+        "timestamp": "1732838400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "70",
+        "altcoinMarketcap": "1471303443110.87",
+        "timestamp": "1732924800"
+      },
+      {
+        "name": "Altcoin Season",
+        "altcoinIndex": "75",
+        "altcoinMarketcap": "1502258013121.99",
+        "timestamp": "1733011200"
+      },
+      {
+        "name": "Altcoin Season",
+        "altcoinIndex": "77",
+        "altcoinMarketcap": "1541850394493.50",
+        "timestamp": "1733097600"
+      },
+      {
+        "name": "Altcoin Season",
+        "altcoinIndex": "86",
+        "altcoinMarketcap": "1568708266981.01",
+        "timestamp": "1733184000"
+      },
+      {
+        "name": "Altcoin Season",
+        "altcoinIndex": "87",
+        "altcoinMarketcap": "1607706051531.92",
+        "timestamp": "1733270400"
+      },
+      {
+        "name": "Altcoin Season",
+        "altcoinIndex": "86",
+        "altcoinMarketcap": "1636163848732.06",
+        "timestamp": "1733356800"
+      },
+      {
+        "name": "Altcoin Season",
+        "altcoinIndex": "85",
+        "altcoinMarketcap": "1620202347925.42",
+        "timestamp": "1733443200"
+      },
+      {
+        "name": "Altcoin Season",
+        "altcoinIndex": "83",
+        "altcoinMarketcap": "1689447139910.53",
+        "timestamp": "1733529600"
+      },
+      {
+        "name": "Altcoin Season",
+        "altcoinIndex": "82",
+        "altcoinMarketcap": "1673939286990.30",
+        "timestamp": "1733616000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "64",
+        "altcoinMarketcap": "1709644789673.39",
+        "timestamp": "1733702400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "65",
+        "altcoinMarketcap": "1537622303482.42",
+        "timestamp": "1733788800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "67",
+        "altcoinMarketcap": "1525033609509.09",
+        "timestamp": "1733875200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "66",
+        "altcoinMarketcap": "1607649011995.03",
+        "timestamp": "1733961600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "65",
+        "altcoinMarketcap": "1618245557949.82",
+        "timestamp": "1734048000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "65",
+        "altcoinMarketcap": "1633074450176.23",
+        "timestamp": "1734134400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "64",
+        "altcoinMarketcap": "1600052601306.65",
+        "timestamp": "1734220800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "63",
+        "altcoinMarketcap": "1632642498126.62",
+        "timestamp": "1734307200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "62",
+        "altcoinMarketcap": "1622151425870.64",
+        "timestamp": "1734393600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "53",
+        "altcoinMarketcap": "1601510364621.16",
+        "timestamp": "1734480000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "46",
+        "altcoinMarketcap": "1495863037439.78",
+        "timestamp": "1734566400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "45",
+        "altcoinMarketcap": "1418643318732.55",
+        "timestamp": "1734652800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "45",
+        "altcoinMarketcap": "1456456504576.22",
+        "timestamp": "1734739200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "44",
+        "altcoinMarketcap": "1408224837939.46",
+        "timestamp": "1734825600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "51",
+        "altcoinMarketcap": "1392271864327.14",
+        "timestamp": "1734912000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "50",
+        "altcoinMarketcap": "1454416600694.93",
+        "timestamp": "1734998400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "47",
+        "altcoinMarketcap": "1490115857939.80",
+        "timestamp": "1735084800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "41",
+        "altcoinMarketcap": "1481702389834.80",
+        "timestamp": "1735171200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "46",
+        "altcoinMarketcap": "1420482136436.71",
+        "timestamp": "1735257600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "47",
+        "altcoinMarketcap": "1419217956097.67",
+        "timestamp": "1735344000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "45",
+        "altcoinMarketcap": "1453006307392.83",
+        "timestamp": "1735430400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "46",
+        "altcoinMarketcap": "1415002485990.23",
+        "timestamp": "1735516800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "47",
+        "altcoinMarketcap": "1413482956047.58",
+        "timestamp": "1735603200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "48",
+        "altcoinMarketcap": "1408851043312.52",
+        "timestamp": "1735689600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "48",
+        "altcoinMarketcap": "1450897089637.97",
+        "timestamp": "1735776000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "51",
+        "altcoinMarketcap": "1487115339018.12",
+        "timestamp": "1735862400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "51",
+        "altcoinMarketcap": "1552194702651.35",
+        "timestamp": "1735948800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "54",
+        "altcoinMarketcap": "1559543167240.70",
+        "timestamp": "1736035200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "53",
+        "altcoinMarketcap": "1551187583236.69",
+        "timestamp": "1736121600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "47",
+        "altcoinMarketcap": "1569738688212.27",
+        "timestamp": "1736208000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "44",
+        "altcoinMarketcap": "1460631561618.18",
+        "timestamp": "1736294400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "47",
+        "altcoinMarketcap": "1441970990637.22",
+        "timestamp": "1736380800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "45",
+        "altcoinMarketcap": "1397118670771.14",
+        "timestamp": "1736467200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "46",
+        "altcoinMarketcap": "1425281800768.39",
+        "timestamp": "1736553600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "45",
+        "altcoinMarketcap": "1445107666601.02",
+        "timestamp": "1736640000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "45",
+        "altcoinMarketcap": "1428443230875.24",
+        "timestamp": "1736726400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "46",
+        "altcoinMarketcap": "1397970259031.63",
+        "timestamp": "1736812800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "50",
+        "altcoinMarketcap": "1438374303503.89",
+        "timestamp": "1736899200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "50",
+        "altcoinMarketcap": "1543973381566.36",
+        "timestamp": "1736985600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "50",
+        "altcoinMarketcap": "1529215898307.62",
+        "timestamp": "1737072000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "47",
+        "altcoinMarketcap": "1592708014395.05",
+        "timestamp": "1737158400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "42",
+        "altcoinMarketcap": "1569433853114.32",
+        "timestamp": "1737244800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "43",
+        "altcoinMarketcap": "1488161104897.09",
+        "timestamp": "1737331200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "43",
+        "altcoinMarketcap": "1505226547209.84",
+        "timestamp": "1737417600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "45",
+        "altcoinMarketcap": "1540443177362.70",
+        "timestamp": "1737504000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "44",
+        "altcoinMarketcap": "1521686931008.23",
+        "timestamp": "1737590400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "46",
+        "altcoinMarketcap": "1524045132670.43",
+        "timestamp": "1737676800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "47",
+        "altcoinMarketcap": "1511157965274.33",
+        "timestamp": "1737763200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "48",
+        "altcoinMarketcap": "1518617829152.38",
+        "timestamp": "1737849600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "45",
+        "altcoinMarketcap": "1478839559638.61",
+        "timestamp": "1737936000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "42",
+        "altcoinMarketcap": "1465956184861.83",
+        "timestamp": "1738022400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "45",
+        "altcoinMarketcap": "1424084415582.84",
+        "timestamp": "1738108800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "46",
+        "altcoinMarketcap": "1442125761759.90",
+        "timestamp": "1738195200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "53",
+        "altcoinMarketcap": "1492379286267.99",
+        "timestamp": "1738281600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "50",
+        "altcoinMarketcap": "1487555299724.40",
+        "timestamp": "1738368000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "40",
+        "altcoinMarketcap": "1410205657246.71",
+        "timestamp": "1738454400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "41",
+        "altcoinMarketcap": "1301845990280.50",
+        "timestamp": "1738540800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "39",
+        "altcoinMarketcap": "1336728280355.70",
+        "timestamp": "1738627200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "36",
+        "altcoinMarketcap": "1273007589099.57",
+        "timestamp": "1738713600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "32",
+        "altcoinMarketcap": "1256664753232.22",
+        "timestamp": "1738800000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "28",
+        "altcoinMarketcap": "1225916543130.07",
+        "timestamp": "1738886400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "30",
+        "altcoinMarketcap": "1224275423495.44",
+        "timestamp": "1738972800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "35",
+        "altcoinMarketcap": "1244308546224.61",
+        "timestamp": "1739059200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "34",
+        "altcoinMarketcap": "1240054513839.90",
+        "timestamp": "1739145600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "43",
+        "altcoinMarketcap": "1256264086727.20",
+        "timestamp": "1739232000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "40",
+        "altcoinMarketcap": "1250620015201.58",
+        "timestamp": "1739318400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "43",
+        "altcoinMarketcap": "1294452301306.46",
+        "timestamp": "1739404800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "35",
+        "altcoinMarketcap": "1279901428987.41",
+        "timestamp": "1739491200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "39",
+        "altcoinMarketcap": "1309526895914.24",
+        "timestamp": "1739577600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "35",
+        "altcoinMarketcap": "1297456867849.62",
+        "timestamp": "1739664000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "39",
+        "altcoinMarketcap": "1285428046092.40",
+        "timestamp": "1739750400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "38",
+        "altcoinMarketcap": "1283304647070.31",
+        "timestamp": "1739836800"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "39",
+        "altcoinMarketcap": "1246460734415.18",
+        "timestamp": "1739923200"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "37",
+        "altcoinMarketcap": "1270968359439.54",
+        "timestamp": "1740009600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "31",
+        "altcoinMarketcap": "1287315874632.71",
+        "timestamp": "1740096000"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "33",
+        "altcoinMarketcap": "1251455443984.81",
+        "timestamp": "1740182400"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "28",
+        "altcoinMarketcap": "1279832596853.86",
+        "timestamp": "1740268800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "22",
+        "altcoinMarketcap": "1280484961719.64",
+        "timestamp": "1740355200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "25",
+        "altcoinMarketcap": "1163667987413.62",
+        "timestamp": "1740441600"
+      },
+      {
+        "name": "",
+        "altcoinIndex": "29",
+        "altcoinMarketcap": "1169259084748.30",
+        "timestamp": "1740528000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "22",
+        "altcoinMarketcap": "1131785550113.70",
+        "timestamp": "1740614400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "21",
+        "altcoinMarketcap": "1131349044725.73",
+        "timestamp": "1740700800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "22",
+        "altcoinMarketcap": "1122178716733.33",
+        "timestamp": "1740787200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "14",
+        "altcoinMarketcap": "1127386833176.53",
+        "timestamp": "1740873600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "16",
+        "altcoinMarketcap": "1276303566736.03",
+        "timestamp": "1740960000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "16",
+        "altcoinMarketcap": "1114513930560.54",
+        "timestamp": "1741046400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "15",
+        "altcoinMarketcap": "1138149428346.91",
+        "timestamp": "1741132800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "14",
+        "altcoinMarketcap": "1166647481354.47",
+        "timestamp": "1741219200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "14",
+        "altcoinMarketcap": "1158585357672.67",
+        "timestamp": "1741305600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "14",
+        "altcoinMarketcap": "1126463858505.25",
+        "timestamp": "1741392000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1123989648384.62",
+        "timestamp": "1741478400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "15",
+        "altcoinMarketcap": "1049721820626.38",
+        "timestamp": "1741564800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "16",
+        "altcoinMarketcap": "1000371457705.14",
+        "timestamp": "1741651200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "13",
+        "altcoinMarketcap": "1036161579758.34",
+        "timestamp": "1741737600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "15",
+        "altcoinMarketcap": "1052116338715.96",
+        "timestamp": "1741824000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1038869690554.03",
+        "timestamp": "1741910400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "18",
+        "altcoinMarketcap": "1067793308999.40",
+        "timestamp": "1741996800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "19",
+        "altcoinMarketcap": "1087089936399.42",
+        "timestamp": "1742083200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "19",
+        "altcoinMarketcap": "1055133416969.03",
+        "timestamp": "1742169600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "21",
+        "altcoinMarketcap": "1077939474498.68",
+        "timestamp": "1742256000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "21",
+        "altcoinMarketcap": "1070832064575.01",
+        "timestamp": "1742342400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "21",
+        "altcoinMarketcap": "1118582468351.70",
+        "timestamp": "1742428800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "21",
+        "altcoinMarketcap": "1090979678332.57",
+        "timestamp": "1742515200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "21",
+        "altcoinMarketcap": "1082955139200.79",
+        "timestamp": "1742601600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "18",
+        "altcoinMarketcap": "1086884690680.15",
+        "timestamp": "1742688000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "19",
+        "altcoinMarketcap": "1098625315856.38",
+        "timestamp": "1742774400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "16",
+        "altcoinMarketcap": "1126856048708.19",
+        "timestamp": "1742860800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1131763414654.99",
+        "timestamp": "1742947200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "18",
+        "altcoinMarketcap": "1110424409532.04",
+        "timestamp": "1743033600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "18",
+        "altcoinMarketcap": "1114956115852.46",
+        "timestamp": "1743120000"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1067187779185.32",
+        "timestamp": "1743206400"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1036217440154.67",
+        "timestamp": "1743292800"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1031180730866.50",
+        "timestamp": "1743379200"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1029475885112.53",
+        "timestamp": "1743465600"
+      },
+      {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1029833073428.38",
+        "timestamp": "1743472335"
+      }
+    ],
+    "historicalValues": {
+      "now": {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1029833073428.38",
+        "timestamp": "1743472335"
+      },
+      "yesterday": {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "17",
+        "altcoinMarketcap": "1031180730866.50",
+        "timestamp": "1743379200"
+      },
+      "lastWeek": {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "16",
+        "altcoinMarketcap": "1126856048708.19",
+        "timestamp": "1742860800"
+      },
+      "lastMonth": {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "22",
+        "altcoinMarketcap": "1122178716733.33",
+        "timestamp": "1740787200"
+      },
+      "yearlyHigh": {
+        "name": "Altcoin Season",
+        "altcoinIndex": "87",
+        "altcoinMarketcap": "1607706051531.92",
+        "timestamp": "1733270400"
+      },
+      "yearlyLow": {
+        "name": "Bitcoin Season",
+        "altcoinIndex": "13",
+        "altcoinMarketcap": "1036161579758.34",
+        "timestamp": "1741737600"
+      }
+    },
+    "dialConfigs": [
+      {
+        "start": 0,
+        "end": 25,
+        "name": "Bitcoin Season"
+      },
+      {
+        "start": 26,
+        "end": 74,
+        "name": ""
+      },
+      {
+        "start": 75,
+        "end": 100,
+        "name": "Altcoin Season"
+      }
+    ],
+    "topCryptos": [
+      {
+        "id": 24647,
+        "name": "Berachain",
+        "symbol": "BERA",
+        "slug": "berachain",
+        "percentChange": 588.03721389
+      },
+      {
+        "id": 23635,
+        "name": "Four",
+        "symbol": "FORM",
+        "slug": "binaryx-new",
+        "percentChange": 475.14442533
+      },
+      {
+        "id": 35626,
+        "name": "Story",
+        "symbol": "IP",
+        "slug": "story-protocol",
+        "percentChange": 63.9134894
+      },
+      {
+        "id": 6536,
+        "name": "MANTRA",
+        "symbol": "OM",
+        "slug": "mantra",
+        "percentChange": 62.49435007
+      },
+      {
+        "id": 35336,
+        "name": "OFFICIAL TRUMP",
+        "symbol": "TRUMP",
+        "slug": "official-trump",
+        "percentChange": 54.18360146
+      },
+      {
+        "id": 4269,
+        "name": "GateToken",
+        "symbol": "GT",
+        "slug": "gatetoken",
+        "percentChange": 35.00752802
+      },
+      {
+        "id": 7326,
+        "name": "DeXe",
+        "symbol": "DEXE",
+        "slug": "dexe",
+        "percentChange": 21.23180545
+      },
+      {
+        "id": 5176,
+        "name": "Tether Gold",
+        "symbol": "XAUt",
+        "slug": "tether-gold",
+        "percentChange": 21.07084392
+      },
+      {
+        "id": 4705,
+        "name": "PAX Gold",
+        "symbol": "PAXG",
+        "slug": "pax-gold",
+        "percentChange": 20.08478318
+      },
+      {
+        "id": 328,
+        "name": "Monero",
+        "symbol": "XMR",
+        "slug": "monero",
+        "percentChange": 10.93836823
+      },
+      {
+        "id": 2087,
+        "name": "KuCoin Token",
+        "symbol": "KCS",
+        "slug": "kucoin-token",
+        "percentChange": 5.94310845
+      },
+      {
+        "id": 3957,
+        "name": "UNUS SED LEO",
+        "symbol": "LEO",
+        "slug": "unus-sed-leo",
+        "percentChange": 0.74680281
+      },
+      {
+        "id": 52,
+        "name": "XRP",
+        "symbol": "XRP",
+        "slug": "xrp",
+        "percentChange": -0.71403207
+      },
+      {
+        "id": 3897,
+        "name": "OKB",
+        "symbol": "OKB",
+        "slug": "okb",
+        "percentChange": -2.65513276
+      },
+      {
+        "id": 4846,
+        "name": "Kava",
+        "symbol": "KAVA",
+        "slug": "kava",
+        "percentChange": -4.60733891
+      },
+      {
+        "id": 2634,
+        "name": "XDC Network",
+        "symbol": "XDC",
+        "slug": "xdc-network",
+        "percentChange": -5.18257583
+      },
+      {
+        "id": 1958,
+        "name": "TRON",
+        "symbol": "TRX",
+        "slug": "tron",
+        "percentChange": -7.16094474
+      },
+      {
+        "id": 1,
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "slug": "bitcoin",
+        "percentChange": -11.60437989
+      },
+      {
+        "id": 1518,
+        "name": "Maker",
+        "symbol": "MKR",
+        "slug": "maker",
+        "percentChange": -13.40197962
+      },
+      {
+        "id": 1839,
+        "name": "BNB",
+        "symbol": "BNB",
+        "slug": "bnb",
+        "percentChange": -14.5232673
+      },
+      {
+        "id": 2694,
+        "name": "Nexo",
+        "symbol": "NEXO",
+        "slug": "nexo",
+        "percentChange": -17.05553088
+      },
+      {
+        "id": 2,
+        "name": "Litecoin",
+        "symbol": "LTC",
+        "slug": "litecoin",
+        "percentChange": -20.94405422
+      },
+      {
+        "id": 1765,
+        "name": "EOS",
+        "symbol": "EOS",
+        "slug": "eos",
+        "percentChange": -21.11008164
+      },
+      {
+        "id": 512,
+        "name": "Stellar",
+        "symbol": "XLM",
+        "slug": "stellar",
+        "percentChange": -22.2129501
+      },
+      {
+        "id": 7186,
+        "name": "PancakeSwap",
+        "symbol": "CAKE",
+        "slug": "pancakeswap",
+        "percentChange": -22.27680998
+      },
+      {
+        "id": 2010,
+        "name": "Cardano",
+        "symbol": "ADA",
+        "slug": "cardano",
+        "percentChange": -22.53949485
+      },
+      {
+        "id": 11419,
+        "name": "Toncoin",
+        "symbol": "TON",
+        "slug": "toncoin",
+        "percentChange": -25.76341374
+      },
+      {
+        "id": 11092,
+        "name": "Bitget Token",
+        "symbol": "BGB",
+        "slug": "bitget-token-new",
+        "percentChange": -25.8574798
+      },
+      {
+        "id": 3794,
+        "name": "Cosmos",
+        "symbol": "ATOM",
+        "slug": "cosmos",
+        "percentChange": -29.90198912
+      },
+      {
+        "id": 1437,
+        "name": "Zcash",
+        "symbol": "ZEC",
+        "slug": "zcash",
+        "percentChange": -29.95062944
+      },
+      {
+        "id": 1831,
+        "name": "Bitcoin Cash",
+        "symbol": "BCH",
+        "slug": "bitcoin-cash",
+        "percentChange": -30.59473608
+      },
+      {
+        "id": 3635,
+        "name": "Cronos",
+        "symbol": "CRO",
+        "slug": "cronos",
+        "percentChange": -30.66900258
+      },
+      {
+        "id": 28541,
+        "name": "Jito",
+        "symbol": "JTO",
+        "slug": "jito",
+        "percentChange": -31.7732612
+      },
+      {
+        "id": 1975,
+        "name": "Chainlink",
+        "symbol": "LINK",
+        "slug": "chainlink",
+        "percentChange": -32.24395757
+      },
+      {
+        "id": 1321,
+        "name": "Ethereum Classic",
+        "symbol": "ETC",
+        "slug": "ethereum-classic",
+        "percentChange": -33.30412888
+      },
+      {
+        "id": 22861,
+        "name": "Celestia",
+        "symbol": "TIA",
+        "slug": "celestia",
+        "percentChange": -34.03111413
+      },
+      {
+        "id": 5426,
+        "name": "Solana",
+        "symbol": "SOL",
+        "slug": "solana",
+        "percentChange": -34.61380626
+      },
+      {
+        "id": 3155,
+        "name": "Quant",
+        "symbol": "QNT",
+        "slug": "quant",
+        "percentChange": -35.79892583
+      },
+      {
+        "id": 27075,
+        "name": "Mantle",
+        "symbol": "MNT",
+        "slug": "mantle",
+        "percentChange": -36.39656292
+      },
+      {
+        "id": 3602,
+        "name": "Bitcoin SV",
+        "symbol": "BSV",
+        "slug": "bitcoin-sv",
+        "percentChange": -37.80608521
+      },
+      {
+        "id": 16086,
+        "name": "BitTorrent [New]",
+        "symbol": "BTT",
+        "slug": "bittorrent-new",
+        "percentChange": -38.89538178
+      },
+      {
+        "id": 21794,
+        "name": "Aptos",
+        "symbol": "APT",
+        "slug": "aptos",
+        "percentChange": -39.48386707
+      },
+      {
+        "id": 6636,
+        "name": "Polkadot",
+        "symbol": "DOT",
+        "slug": "polkadot-new",
+        "percentChange": -39.66030303
+      },
+      {
+        "id": 4642,
+        "name": "Hedera",
+        "symbol": "HBAR",
+        "slug": "hedera",
+        "percentChange": -39.71761742
+      },
+      {
+        "id": 32684,
+        "name": "Sonic (prev. FTM)",
+        "symbol": "S",
+        "slug": "sonic",
+        "percentChange": -39.81290741
+      },
+      {
+        "id": 1720,
+        "name": "IOTA",
+        "symbol": "IOTA",
+        "slug": "iota",
+        "percentChange": -40.90988494
+      },
+      {
+        "id": 5994,
+        "name": "Shiba Inu",
+        "symbol": "SHIB",
+        "slug": "shiba-inu",
+        "percentChange": -41.10268429
+      },
+      {
+        "id": 21159,
+        "name": "Ondo",
+        "symbol": "ONDO",
+        "slug": "ondo-finance",
+        "percentChange": -41.18322501
+      },
+      {
+        "id": 6538,
+        "name": "Curve DAO Token",
+        "symbol": "CRV",
+        "slug": "curve-dao-token",
+        "percentChange": -42.53074297
+      },
+      {
+        "id": 20396,
+        "name": "Kaspa",
+        "symbol": "KAS",
+        "slug": "kaspa",
+        "percentChange": -42.58143276
+      },
+      {
+        "id": 2280,
+        "name": "Filecoin",
+        "symbol": "FIL",
+        "slug": "filecoin",
+        "percentChange": -44.14377598
+      },
+      {
+        "id": 20947,
+        "name": "Sui",
+        "symbol": "SUI",
+        "slug": "sui",
+        "percentChange": -45.28112292
+      },
+      {
+        "id": 32196,
+        "name": "Hyperliquid",
+        "symbol": "HYPE",
+        "slug": "hyperliquid",
+        "percentChange": -45.34399473
+      },
+      {
+        "id": 1027,
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "slug": "ethereum",
+        "percentChange": -45.35018396
+      },
+      {
+        "id": 4558,
+        "name": "Flow",
+        "symbol": "FLOW",
+        "slug": "flow",
+        "percentChange": -45.44005325
+      },
+      {
+        "id": 4030,
+        "name": "Algorand",
+        "symbol": "ALGO",
+        "slug": "algorand",
+        "percentChange": -46.66086686
+      },
+      {
+        "id": 8916,
+        "name": "Internet Computer",
+        "symbol": "ICP",
+        "slug": "internet-computer",
+        "percentChange": -46.74850964
+      },
+      {
+        "id": 5805,
+        "name": "Avalanche",
+        "symbol": "AVAX",
+        "slug": "avalanche",
+        "percentChange": -47.51389678
+      },
+      {
+        "id": 74,
+        "name": "Dogecoin",
+        "symbol": "DOGE",
+        "slug": "dogecoin",
+        "percentChange": -47.61694507
+      },
+      {
+        "id": 7950,
+        "name": "Flare",
+        "symbol": "FLR",
+        "slug": "flare",
+        "percentChange": -47.89700659
+      },
+      {
+        "id": 1966,
+        "name": "Decentraland",
+        "symbol": "MANA",
+        "slug": "decentraland",
+        "percentChange": -48.03666836
+      },
+      {
+        "id": 3077,
+        "name": "VeChain",
+        "symbol": "VET",
+        "slug": "vechain",
+        "percentChange": -48.72670562
+      },
+      {
+        "id": 7278,
+        "name": "Aave",
+        "symbol": "AAVE",
+        "slug": "aave",
+        "percentChange": -48.76139233
+      },
+      {
+        "id": 6535,
+        "name": "NEAR Protocol",
+        "symbol": "NEAR",
+        "slug": "near-protocol",
+        "percentChange": -49.16463768
+      },
+      {
+        "id": 32880,
+        "name": "Kaia",
+        "symbol": "KAIA",
+        "slug": "kaia",
+        "percentChange": -49.19427925
+      },
+      {
+        "id": 2011,
+        "name": "Tezos",
+        "symbol": "XTZ",
+        "slug": "tezos",
+        "percentChange": -49.45335873
+      },
+      {
+        "id": 22974,
+        "name": "Bittensor",
+        "symbol": "TAO",
+        "slug": "bittensor",
+        "percentChange": -49.47802129
+      },
+      {
+        "id": 29210,
+        "name": "Jupiter",
+        "symbol": "JUP",
+        "slug": "jupiter-ag",
+        "percentChange": -49.69247025
+      },
+      {
+        "id": 5665,
+        "name": "Helium",
+        "symbol": "HNT",
+        "slug": "helium",
+        "percentChange": -49.8408376
+      },
+      {
+        "id": 8000,
+        "name": "Lido DAO",
+        "symbol": "LDO",
+        "slug": "lido-dao",
+        "percentChange": -50.0079513
+      },
+      {
+        "id": 5690,
+        "name": "Render",
+        "symbol": "RENDER",
+        "slug": "render",
+        "percentChange": -50.21912639
+      },
+      {
+        "id": 6210,
+        "name": "The Sandbox",
+        "symbol": "SAND",
+        "slug": "the-sandbox",
+        "percentChange": -50.6676545
+      },
+      {
+        "id": 32452,
+        "name": "Movement",
+        "symbol": "MOVE",
+        "slug": "movement",
+        "percentChange": -51.7471119
+      },
+      {
+        "id": 13855,
+        "name": "Ethereum Name Service",
+        "symbol": "ENS",
+        "slug": "ethereum-name-service",
+        "percentChange": -51.89577639
+      },
+      {
+        "id": 6892,
+        "name": "MultiversX",
+        "symbol": "EGLD",
+        "slug": "multiversx-egld",
+        "percentChange": -52.53462677
+      },
+      {
+        "id": 23254,
+        "name": "Core",
+        "symbol": "CORE",
+        "slug": "core-dao",
+        "percentChange": -53.58864067
+      },
+      {
+        "id": 6783,
+        "name": "Axie Infinity",
+        "symbol": "AXS",
+        "slug": "axie-infinity",
+        "percentChange": -53.62417126
+      },
+      {
+        "id": 33597,
+        "name": "Fartcoin",
+        "symbol": "FARTCOIN",
+        "slug": "fartcoin",
+        "percentChange": -53.95728648
+      },
+      {
+        "id": 11841,
+        "name": "Arbitrum",
+        "symbol": "ARB",
+        "slug": "arbitrum",
+        "percentChange": -54.32544231
+      },
+      {
+        "id": 7083,
+        "name": "Uniswap",
+        "symbol": "UNI",
+        "slug": "uniswap",
+        "percentChange": -54.82609685
+      },
+      {
+        "id": 28321,
+        "name": "POL (prev. MATIC)",
+        "symbol": "POL",
+        "slug": "polygon-ecosystem-token",
+        "percentChange": -55.4882955
+      },
+      {
+        "id": 7226,
+        "name": "Injective",
+        "symbol": "INJ",
+        "slug": "injective",
+        "percentChange": -55.76129945
+      },
+      {
+        "id": 7080,
+        "name": "Gala",
+        "symbol": "GALA",
+        "slug": "gala",
+        "percentChange": -55.92287578
+      },
+      {
+        "id": 28324,
+        "name": "dYdX",
+        "symbol": "DYDX",
+        "slug": "dydx-chain",
+        "percentChange": -56.17103785
+      },
+      {
+        "id": 6719,
+        "name": "The Graph",
+        "symbol": "GRT",
+        "slug": "the-graph",
+        "percentChange": -56.2295535
+      },
+      {
+        "id": 23149,
+        "name": "Sei",
+        "symbol": "SEI",
+        "slug": "sei",
+        "percentChange": -57.04098413
+      },
+      {
+        "id": 35697,
+        "name": "Pi",
+        "symbol": "PI",
+        "slug": "pi",
+        "percentChange": -58.18613549
+      },
+      {
+        "id": 11840,
+        "name": "Optimism",
+        "symbol": "OP",
+        "slug": "optimism-ethereum",
+        "percentChange": -58.27400753
+      },
+      {
+        "id": 10603,
+        "name": "Immutable",
+        "symbol": "IMX",
+        "slug": "immutable-x",
+        "percentChange": -60.03522136
+      },
+      {
+        "id": 28177,
+        "name": "Pyth Network",
+        "symbol": "PYTH",
+        "slug": "pyth-network",
+        "percentChange": -60.57625067
+      },
+      {
+        "id": 4847,
+        "name": "Stacks",
+        "symbol": "STX",
+        "slug": "stacks",
+        "percentChange": -60.61955168
+      },
+      {
+        "id": 30171,
+        "name": "Ethena",
+        "symbol": "ENA",
+        "slug": "ethena",
+        "percentChange": -62.36802548
+      },
+      {
+        "id": 23095,
+        "name": "Bonk",
+        "symbol": "BONK",
+        "slug": "bonk1",
+        "percentChange": -62.994035
+      },
+      {
+        "id": 13502,
+        "name": "Worldcoin",
+        "symbol": "WLD",
+        "slug": "worldcoin-org",
+        "percentChange": -63.56555117
+      },
+      {
+        "id": 2416,
+        "name": "Theta Network",
+        "symbol": "THETA",
+        "slug": "theta-network",
+        "percentChange": -63.79247013
+      },
+      {
+        "id": 3773,
+        "name": "Artificial Superintelligence Alliance",
+        "symbol": "FET",
+        "slug": "artificial-superintelligence-alliance",
+        "percentChange": -64.11810878
+      },
+      {
+        "id": 24478,
+        "name": "Pepe",
+        "symbol": "PEPE",
+        "slug": "pepe",
+        "percentChange": -64.36639351
+      },
+      {
+        "id": 8526,
+        "name": "Raydium",
+        "symbol": "RAY",
+        "slug": "raydium",
+        "percentChange": -65.18147937
+      },
+      {
+        "id": 8425,
+        "name": "JasmyCoin",
+        "symbol": "JASMY",
+        "slug": "jasmy",
+        "percentChange": -66.37907325
+      },
+      {
+        "id": 10804,
+        "name": "FLOKI",
+        "symbol": "FLOKI",
+        "slug": "floki-inu",
+        "percentChange": -67.25409698
+      }
+    ]
+  },
+  "status": {
+    "timestamp": "2025-04-01T01:52:15.914Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "39",
+    "credit_count": 0
+  }
+}

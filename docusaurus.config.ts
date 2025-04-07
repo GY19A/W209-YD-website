@@ -68,7 +68,7 @@ export default {
       }),
     ],
   ],
-
+  staticDirectories: ['static'],
   themeConfig: {
     // algolia: {
     //   appId: 'RS0W62V3KF',
@@ -82,27 +82,57 @@ export default {
       respectPrefersColorScheme: false,
     },
     navbar: {
-      title: 'Yellow Duckie',
+      title: 'Yellow Duckie Coin',
       logo: {
         alt: 'yellow duckie logo',
         src: 'img/yd.png',
       },
       items: [
         {
-          type: 'doc',
-          docId: 'getting-started',
+          to: 'https://explorer.yellowduckie.net/',
+          label: 'Explorer',
           position: 'left',
-          label: 'Docs',
         },
-        // { to: '/blog', label: 'Blog', position: 'left' },
         {
-          to: 'https://github.com/thecodingmachine/react-native-boilerplate',
-          label: ' ',
-          className: 'header-github-link group',
+          to: 'https://pool.yellowduckie.net/',
+          label: 'MiningPool',
+          position: 'left',
+        },
+        {
+          type: 'doc',
+          docId: 'white-paper',
+          position: 'left',
+          label: 'Whitepaper',
+        },
+        {
+          to: 'https://github.com/YellowDuckieCoin/YellowDuckie',
+          label: 'GitHub',
           position: 'right',
         },
+        // {
+        //   type: 'doc',
+        //   docId: 'white-paper',
+        //   position: 'left',
+        //   label: 'Docs',
+        // },
+        // // { to: '/blog', label: 'Blog', position: 'left' },
+        // {
+        //   to: 'https://github.com/thecodingmachine/react-native-boilerplate',
+        //   label: ' ',
+        //   className: 'header-github-link group',
+        //   position: 'right',
+        // },
       ],
     },
+    headTags: [
+      { tagName: 'meta', attributes: { name: 'og:image', content: '/img/yd.png' } },
+      { tagName: 'meta', attributes: { name: 'og:title', content: 'Yellow Duckie Coin' } },
+      { tagName: 'meta', attributes: { name: 'og:description', content: 'The Yellow Duckie Coin!' } },
+      { tagName: 'meta', attributes: { name: 'twitter:card', content: 'summary_large_image' } },
+      { tagName: 'meta', attributes: { name: 'twitter:image', content: '/img/yd.png' } },
+      { tagName: 'meta', attributes: { name: 'twitter:title', content: 'Yellow Duckie Coin' } },
+      { tagName: 'meta', attributes: { name: 'twitter:description', content: 'The Yellow Duckie Coin!' } },
+    ],
     footer: {
       style: 'dark',
       // links: [

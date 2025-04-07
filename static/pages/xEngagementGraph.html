@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meme Coin Dashboard</title>
+</head>
+<body>
+    <div class="container">
+
+        <div id="xEngagementGraph"></div>
+
+        </div>
+    </div>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    
+    <script src="x-engagement.js"></script>
+
+
+    <script>
+        // Time selector functionality
+        document.querySelectorAll('.time-button').forEach(button => {
+            button.addEventListener('click', () => {
+                const parent = button.parentElement;
+                parent.querySelectorAll('.time-button').forEach(btn => btn.classList.remove('active'));
+                button.classList.add('active');
+                // This is now handled in memecoin-price.js
+            });
+        });
+    </script>
+</body>
+</html>

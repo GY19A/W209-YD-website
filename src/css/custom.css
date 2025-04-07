@@ -250,3 +250,130 @@ table tr:nth-child(2n) {
 div:has(> .theme-doc-sidebar-container) {
   @apply !min-h-screen;
 }
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+.animate-spin-slow {
+  animation: spin 10s linear infinite;
+}
+
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+body {
+  margin: 0 auto;
+  /* padding: 0 20px; 可选：为小屏幕添加一些内边距 */
+}
+.custom-scrollbar::-webkit-scrollbar {
+  height: 8px; /* 滚动条的高度 */
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #f1f1f1; /* 滚动条轨道的背景色 */
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #888; /* 滚动条的颜色 */
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #555; /* 滚动条在悬停时的颜色 */
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* 为固定导航添加样式 */
+.nav-link.active {
+  color: #eab308; /* yellow-500 */
+  font-weight: bold;
+}
+
+.navbar.navbar--fixed-top {
+  background-color: rgba(27, 27, 29, 0.8); /* #1b1b1d 带透明度 */
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px); /* Safari 兼容 */
+}
+
+.nav-sidebar {
+  position: fixed;
+  right: 2rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  z-index: 50;
+}
+
+/* 暗黑模式 */
+[data-theme='dark'] .nav-sidebar {
+  background-color: rgba(31, 41, 55, 0.8);
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .nav-sidebar {
+    right: 1rem;
+  }
+}
+.data-chart {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;  /* 保持这个属性 */
+  scrollbar-width: none;  /* Firefox */
+  -ms-overflow-style: none;  /* IE and Edge */
+  -webkit-overflow-scrolling: touch;  /* 为iOS添加平滑滚动 */
+}
+
+.data-chart::-webkit-scrollbar {
+  display: none;  /* Chrome, Safari 和 Opera */
+}
+.YellowDuckieWeb3Map {
+  height: 695px;
+}
+.XEngagementGraph {
+  height: 540px;
+  width: 1201px;
+}
+.BitcoinDominanceChart {
+  height: 585px;
+}
+.PyramidRacingBar {
+  height: 830px;
+}
+.TopFromWalletsRacing {
+  height: 930px;
+}
+.TopToWalletsRacing {
+  height: 930px;
+}
+.TransactionSankey {
+  height: 1230px;
+}
+.TreemapDropdown {
+  height: 930px;
+}

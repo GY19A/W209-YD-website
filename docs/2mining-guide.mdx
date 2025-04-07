@@ -1,0 +1,126 @@
+---
+slug: /mining-guide
+sidebar_label: Mining Guide
+title: Yellow Duckie Coin Mining Guide
+id: mining-guide
+keywords: ['mining', 'guide', 'kawpow', 'gpu', 'tutorial']
+---
+
+# Yellow Duckie Coin Mining Guide
+
+## Prerequisites
+- GPU with at least 4GB VRAM
+- Windows 10/11 or Linux operating system
+- Stable internet connection
+- Basic understanding of cryptocurrency mining
+
+## Step-by-Step Guide
+
+### 1. Hardware Requirements
+- **GPU**: NVIDIA or AMD GPU with 4GB+ VRAM
+- **RAM**: 8GB minimum
+- **Storage**: 20GB free space
+- **Power Supply**: Adequate power supply for your GPU
+
+### 2. Software Setup
+
+#### Windows Setup
+1. Download and install the latest NVIDIA/AMD drivers
+2. Download T-Rex Miner (NVIDIA) or TeamRedMiner (AMD)
+3. Create a wallet address for receiving mining rewards
+4. Configure your mining software with the following settings:
+   ```
+   Pool URL: stratum+tcp://pplns.pool.yellowduckie.net:3333
+   Wallet Address: Your YD wallet address
+   Worker Name: Your worker name
+   ```
+
+#### Linux Setup
+1. Install GPU drivers using your distribution's package manager
+2. Download and extract mining software
+3. Configure mining software with the same settings as Windows
+
+### 3. Mining Configuration
+
+#### Basic Configuration
+```bash
+# Example KawpowMiner configuration
+kawpowminer.exe -P stratum+tcp://Your_address@pplns.pool.yellowduckie.net:12333
+```
+
+#### Advanced Configuration
+```bash
+# Advanced settings for optimal performance
+kawpowminer.exe -P stratum+tcp://Your_address@pplns.pool.yellowduckie.net:12333 --pl 80 --fan 80 --cclock 100 --mclock 1000
+```
+
+### 4. Mining Pool Setup
+1. Visit [pool.yellowduckie.net](https://pool.yellowduckie.net)
+2. Replace `Your_address` in the mining command with your actual YD wallet address
+3. Monitor your hashrate and earnings
+4. Set up payout threshold and address
+
+### 5. Performance Optimization
+
+#### NVIDIA GPUs
+- Core Clock: +100 to +200 MHz
+- Memory Clock: +800 to +1200 MHz
+- Power Limit: 80-90%
+- Temperature Limit: 75°C
+
+#### AMD GPUs
+- Core Clock: +50 to +150 MHz
+- Memory Clock: +500 to +1000 MHz
+- Power Limit: 80-90%
+- Temperature Limit: 75°C
+
+### 6. Monitoring and Maintenance
+- Monitor GPU temperature
+- Check hashrate stability
+- Update mining software regularly
+- Clean dust from GPU regularly
+
+### 7. Troubleshooting
+
+#### Common Issues
+1. **Low Hashrate**
+   - Check GPU temperature
+   - Verify power settings
+   - Update drivers
+
+2. **High Rejection Rate**
+   - Check internet connection
+   - Verify pool settings
+   - Adjust overclock settings
+
+3. **Software Crashes**
+   - Reduce overclock settings
+   - Update mining software
+   - Check system stability
+
+## Mining Rewards
+
+### Regular Rewards
+- Base mining reward: 10 YD per minute
+- Rewards are distributed every 10 minutes
+
+### Lucky Miner Rewards
+- Daily lucky miner gets 1000 YD
+- One winner selected per day
+- No special requirements to be eligible
+
+## Best Practices
+1. Keep your mining software updated
+2. Monitor system temperature
+3. Use stable internet connection
+4. Join our community for support
+5. Follow pool announcements
+
+## Support
+- Join our Discord community
+- Visit our mining pool website
+- Check our GitHub repository
+- Contact pool operators
+
+## Disclaimer
+This guide is for educational purposes only. Mining cryptocurrency may result in hardware wear and increased electricity costs. Always ensure proper cooling and power supply for your mining equipment. 

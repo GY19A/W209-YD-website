@@ -5,42 +5,46 @@ type FeatureItem = {
   icon: string
   color: string
   description: JSX.Element;
+  link: string;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    icon: '👌',
+    title: 'X',
+    icon: '../img/social/x_logo-black.png',
     color: 'yellow',
     description: (
       <>
         A straightforward starter kit equipped with essential and widely recognized dependencies.
       </>
     ),
+    link: 'https://x.com/YellowDuckieNet',
   },
   {
-    title: 'Lightweight',
-    icon: '🍃',
-    color: 'green',
+    title: 'Discord',
+    icon: '../img/social/discord.png',
+    color: 'cyan',
     description: (
       <>
         It includes just the bare minimum code required to create amazing apps.
       </>
     ),
+    link: 'https://discord.gg/XFKbTVeNPC',
   },
   {
-    title: 'TypeScript or JavaScript?',
-    icon: '🎛️',
-    color: 'cyan',
+    title: 'Coingecko',
+    icon: '../img/social/cg.png',
+    color: 'green',
     description: (
       <>
         We believe in giving you the freedom to select your preferred codebase language.
       </>
     ),
+    link: 'https://coinmarketcap.com/dexscan/solana/6Xei6kKe15fhuezV3LFW8HqsT78K6qtHBuZ6SeWtQ1yw/',
   },
   {
-    title: 'Scalable',
-    icon: '🧱',
+    title: 'Dexscreener',
+    icon: '../img/social/dex-screener.png',
     color: 'orange',
     description: (
       <>
@@ -48,6 +52,7 @@ const FeatureList: FeatureItem[] = [
         Effortlessly expand your app's capabilities and scale it up as needed.
       </>
     ),
+    link: 'https://dexscreener.com/solana/6xei6kke15fhuezv3lfw8hqst78k6qthbuz6sewtq1yw',
   },
 ];
 
@@ -59,7 +64,7 @@ const colors = {
 };
 
 function Feature({
-  title, icon, color, description,
+  title, icon, color, description, link,
 }: FeatureItem) {
   const colorClass = colors[color];
   return (
@@ -89,11 +94,13 @@ function Feature({
           h-[50px]
           min-w-[50px]
           min-h-[50px]
-         
+        
           rounded-xl
         `}
       >
-        <p className="text-2xl">{icon}</p>
+        <a href={link} target="_blank" rel="noopener noreferrer">
+          <img className='p-2' src={icon} alt={title} />
+        </a>
       </div>
       {/* <div className="flex flex-col">
         <div className="font-bold mb-4">{title}</div>
@@ -108,7 +115,7 @@ function Feature({
 export default function HomepageFeatures(): JSX.Element {
   return (
     <section className="relative">
-      <div className="inline-grid grid-cols-1 md:grid-cols-4 gap-4 p-5 sm:px-16 sm:pb-16 pt-0">
+      <div className="flex flex-col md:flex-row justify-center items-center gap-4 p-5 sm:px-16 sm:pb-16 pt-0">
         {FeatureList.map((props, idx) => (
           <Feature key={`feature-${idx}`} {...props} />
         ))}
