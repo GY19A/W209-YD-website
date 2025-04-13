@@ -6,6 +6,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        orbitron: ['Orbitron', 'sans-serif'],
+      },
       screens: {
         xs: '375px',
       },
