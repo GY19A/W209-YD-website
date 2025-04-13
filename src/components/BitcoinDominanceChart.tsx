@@ -96,6 +96,9 @@ function BitcoinDominanceChart(): React.ReactElement {
   return (
     <div className="w-full h-full flex flex-col gap-4 p-6 rounded-2xl bg-gradient-to-br from-slate-800 to-slate-900">
       <div className="flex flex-col gap-4">
+      <div className="text-gray-300 text-sm mb-4 px-4 text-center font-sans">
+        This visualization displays the relationship between Bitcoin Market Dominance and the Altcoin Index over time. Use the time period buttons to adjust the view, and hover over data points to see detailed information.
+      </div>
         <h2 className="text-xl md:text-2xl lg:text-3xl font-orbitron text-yellow-400 text-center">
           Bitcoin Market Dominance vs Altcoin Index
         </h2>

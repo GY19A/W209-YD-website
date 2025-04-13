@@ -231,6 +231,10 @@ function XEngagementGraphComponent({ width, height }: XEngagementGraphProps): JS
 
   return (
     <div className="relative font-['Orbitron']">
+      <div className="text-gray-300 text-sm mb-4 px-4 text-center font-sans">
+        This visualization displays the analytics from YD's X account. Use the checkbox to toggle lines on and off. Hover over the line to get more details.
+      </div>
+
       {/* Title - Match BTC Title style */}
       <div className="text-center w-full mb-2 text-xl md:text-2xl lg:text-3xl font-orbitron text-yellow-400">
         YellowDuckieCoin X Analytics

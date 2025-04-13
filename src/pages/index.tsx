@@ -4,18 +4,20 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import HomepageFeatures from '@site/src/components/Features';
 import Circles from '@site/src/components/circles';
-import Quickstart from '@site/src/components/Quickstart';
+// import Quickstart from '@site/src/components/Quickstart'; // Commented out - unused
 import CodeBlock from '@theme/CodeBlock';
-import Web3Map from '../components/Web3Map';  // 使用相对路径
-import TokenMarketData from '../components/TokenMarketData';
-import PyramidRacingBar from '../components/PyramidRacingBar';
-import TopFromWalletsRacing from '../components/TopFromWalletsRacing';
-import TopToWalletsRacing from '../components/TopToWalletsRacing';
-import TransactionSankey from '../components/TransactionSankey';
-import TreemapDropdown from '../components/TreemapDropdown';
-import YellowDuckieWeb3Map from '../components/YellowDuckieWeb3Map';
-import XEngagementGraph from '../components/XEngagementGraph';
-import BitcoinDominanceChart from '../components/BitcoinDominanceChart';
+// import Web3Map from '../components/Web3Map';  // Commented out - unused / path issue?
+// import TokenMarketData from '../components/TokenMarketData'; // Commented out - unused / path issue?
+import PyramidRacingBar from '../components/PyramidRacingBar'; // Removed .tsx extension
+import TopFromWalletsRacing from '../components/TopFromWalletsRacing'; // Removed .tsx extension
+import TopToWalletsRacing from '../components/TopToWalletsRacing'; // Removed .tsx extension
+import TransactionSankey from '../components/TransactionSankey'; // Removed .tsx extension
+import TreemapDropdown from '../components/TreemapDropdown'; // Removed .tsx extension
+import YellowDuckieWeb3Map from '../components/YellowDuckieWeb3Map'; // Removed .tsx extension
+import XEngagementGraph from '../components/XEngagementGraph'; // Removed .tsx extension
+import BitcoinDominanceChart from '../components/BitcoinDominanceChart'; // Removed .tsx extension
+import PhiPriceEngagementGraph from '../components/PhiPriceEngagementGraph'; // Removed .tsx extension
+
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
 
@@ -129,6 +131,10 @@ export default function Home(): JSX.Element {
                   <div className="h-auto">
                     <XEngagementGraph />
                   </div>
+                </section>
+
+                <section id="phi-price-engagement" style={{ height: '550px' }} className="bg-white/10 rounded-lg backdrop-blur">
+                  <PhiPriceEngagementGraph />
                 </section>
 
                 <section id="bitcoin" style={{height: '585px'}}  className=" bg-white/10 rounded-lg backdrop-blur">
