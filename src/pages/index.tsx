@@ -126,18 +126,18 @@ export default function Home(): JSX.Element {
                   </div>
                 </section>
 
-                <section id="engagement" style={{height: '515px'}} className="bg-white/10 rounded-lg backdrop-blur">
+                <section id="engagement" className="bg-white/10 rounded-lg backdrop-blur">
                   {/* <h2 className="text-xl font-bold mb-4">X Engagement Analysis</h2> */}
                   <div className="h-auto">
                     <XEngagementGraph />
                   </div>
                 </section>
 
-                <section id="phi-price-engagement" style={{ height: '550px' }} className="bg-white/10 rounded-lg backdrop-blur">
+                <section id="phi-price-engagement" style={{height: '600px'}} className="bg-white/10 rounded-lg backdrop-blur">
                   <PhiPriceEngagementGraph />
                 </section>
 
-                <section id="bitcoin" style={{height: '585px'}}  className=" bg-white/10 rounded-lg backdrop-blur">
+                <section id="bitcoin" style={{height: '700px'}}  className=" bg-white/10 rounded-lg backdrop-blur">
                   {/* <h2 className="text-xl font-bold mb-4">Bitcoin Dominance</h2> */}
                   <BitcoinDominanceChart />
                 </section>

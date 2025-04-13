@@ -10,4 +10,4 @@ export default function PyramidRacingBar(): JSX.Element {
       />
     </div>
   );
-} 
+}
