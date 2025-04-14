@@ -17,6 +17,7 @@ import YellowDuckieWeb3Map from '../components/YellowDuckieWeb3Map'; // Removed 
 import XEngagementGraph from '../components/XEngagementGraph'; // Removed .tsx extension
 import BitcoinDominanceChart from '../components/BitcoinDominanceChart'; // Removed .tsx extension
 import PhiPriceEngagementGraph from '../components/PhiPriceEngagementGraph'; // Removed .tsx extension
+import ActivityXEngagementGraph from '../components/ActivityXEngagementGraph'; // Removed .tsx extension
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -133,8 +134,12 @@ export default function Home(): JSX.Element {
                   </div>
                 </section>
 
-                <section id="phi-price-engagement" style={{height: '600px'}} className="bg-white/10 rounded-lg backdrop-blur">
+                {/* <section id="phi-price-engagement" style={{height: '600px'}} className="bg-white/10 rounded-lg backdrop-blur">
                   <PhiPriceEngagementGraph />
+                </section> */}
+
+                <section id="activity-x-engagement" style={{height: '600px'}} className="bg-white/10 rounded-lg backdrop-blur">
+                  <ActivityXEngagementGraph />
                 </section>
 
                 <section id="bitcoin" style={{height: '700px'}}  className=" bg-white/10 rounded-lg backdrop-blur">
