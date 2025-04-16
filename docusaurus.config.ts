@@ -102,7 +102,7 @@ export default {
           type: 'doc',
           docId: 'white-paper',
           position: 'left',
-          label: 'Whitepaper',
+          label: 'Documents',
         },
         {
           to: 'https://github.com/YellowDuckieCoin/YellowDuckie',

@@ -355,7 +355,7 @@ html {
   display: none;  /* Chrome, Safari 和 Opera */
 }
 .YellowDuckieWeb3Map {
-  height: 695px;
+  height: 515px;
 }
 .XEngagementGraph {
   height: 540px;
@@ -365,17 +365,20 @@ html {
   height: 585px;
 }
 .PyramidRacingBar {
-  height: 830px;
+  height: 800px;
 }
 .TopFromWalletsRacing {
-  height: 930px;
+  height: 900px;
 }
 .TopToWalletsRacing {
-  height: 930px;
+  height: 900px;
 }
 .TransactionSankey {
-  height: 1230px;
+  height: 1200px;
 }
 .TreemapDropdown {
-  height: 930px;
+  height: 800px;
+}
+#activity-x-engagement{
+  height: 540px;
 }

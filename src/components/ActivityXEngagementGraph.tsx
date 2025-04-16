@@ -244,14 +244,14 @@ function ActivityXEngagementGraph(): JSX.Element {
   }
 
   return (
-    <div className="w-full h-full flex flex-col gap-4 p-6 rounded-2xl bg-gradient-to-br from-slate-800 to-slate-900">
+    <div className="w-full h-full flex flex-col gap-4 p-6 rounded-2xl bg-gradient-to-br from-slate-800 to-slate-900" style={{height:'540px'}}>
       <div className="flex flex-col gap-4">
         <h2 className="text-xl md:text-2xl lg:text-3xl font-orbitron text-yellow-400 text-center">
           X Impressions Over Time
         </h2>
         <div className="text-gray-300 text-sm mb-4 px-4 text-center font-sans">
-          This visualization shows X social media impressions over time, with circles \
-          representing the number of transactions on the day.
+          {/* This visualization shows X social media impressions over time, with circles \
+          representing the number of transactions on the day. */}
         </div>
         <div className="flex justify-center gap-2 md:gap-4 p-4 bg-gradient-to-r from-slate-800/80 to-slate-900/80 rounded-xl shadow-lg">
           {TIME_PERIODS.map((period) => (
